@@ -17,7 +17,7 @@ Step 2:
 
 Add the dependency library // Canvas UI
 
-</LinearLayout>
+</LinearLayout    nmb >
 
 dependencies {
 	        implementation 'com.github.androidbulb:CircleImageViewLibrary:1.0'
