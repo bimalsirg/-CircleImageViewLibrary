@@ -59,3 +59,27 @@ dependencies {
 Use `git status` to list all new or modified files that haven't yet been committed.
 
 This site was built using [GitHub Pages](https://bimalsirg.blogspot.com/search/label/solution/).
+
+![Example Image](example.png)
+![Example Image](https://avatars.githubusercontent.com/u/176422698?v=4)
+<img src="https://example.com/image.png" alt="Example Image" width="500" />
+<p align="center">
+  <img src="https://example.com/image.png" alt="Example Image" width="500" />
+</p>
+
+# My Project
+
+## Example Image
+
+Here is an example image:
+
+![Example Image](https://example.com/image.png)
+
+## Image with HTML
+
+Here is the same image with HTML for more control:
+
+<p align="center">
+  <img src="https://example.com/image.png" alt="Example Image" width="500" />
+</p>
+
