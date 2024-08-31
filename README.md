@@ -21,7 +21,7 @@ dependencyResolutionManagement {
 
 ```python
 dependencies {
-	        implementation 'com.github.androidbulb:CircleImageViewLibrary:1.0'
+	        implementation 'com.github.bimalsirg:CircleImageViewLibrary:1.0'
 	}
 
 ```
@@ -34,7 +34,7 @@ dependencies {
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="center">
-        <com.androidbulb.circleimage.CircleImageView
+        <com.bimalsirg.circleimage.CircleImageView
             android:id="@+id/img_icon"
             android:layout_width="150dp"
             android:layout_height="150dp"
@@ -58,4 +58,4 @@ dependencies {
 
 Use `git status` to list all new or modified files that haven't yet been committed.
 
-This site was built using [GitHub Pages](https://https://bimalsirg.blogspot.com/search/label/solution/).
+This site was built using [GitHub Pages](https://bimalsirg.blogspot.com/search/label/solution/).
