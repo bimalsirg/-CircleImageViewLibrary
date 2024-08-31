@@ -17,22 +17,14 @@ dependencyResolutionManagement {
 ```
 ## Step 2:
 
+> Add the dependency library // Canvas UI
 
-
-
-
-dependencyResolutionManagement {
-		repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
-		repositories {
-			mavenCentral()
-			maven { url 'https://jitpack.io' } /// For Kt use this only  maven("https://jitpack.io")
-		}
+```python
+dependencies {
+	        implementation 'com.github.androidbulb:CircleImageViewLibrary:1.0'
 	}
 
-Step 2:
-
-Add the dependency library // Canvas UI
-
+```
 </LinearLayout    nmb >
 
 dependencies {
