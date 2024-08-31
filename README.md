@@ -40,9 +40,9 @@ Efficient CircleImageView Canvas in your View.xml Example
             android:src="@drawable/test" />
 
     </LinearLayout>
-Use the `printf` function to print text in C.
+    Use the `printf` function to print text in C.
 
-    # A first-level heading
+# A first-level heading
 ## A second-level heading
 ### A third-level heading
  
