@@ -2,9 +2,9 @@
 Welcome to the Efficient Canvas CircleImageView Library! This library simplifies the process of adding an optimized CircleImageView to your Android apps in android studio, sketchware,sketchware pro,etc.
 
 # Installation
-Step 1:
+## Step 1:
 
-Add the JitPack repository to your build file
+> Add the JitPack repository to your build file
 
 
 dependencyResolutionManagement {
