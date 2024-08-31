@@ -46,3 +46,9 @@ Efficient CircleImageView Canvas in your View.xml Example
 ## A second-level heading
 ### A third-level heading
  
+> Text that is a quote
+
+
+Use `git status` to list all new or modified files that haven't yet been committed.
+
+This site was built using [GitHub Pages](https://pages.github.com/).
