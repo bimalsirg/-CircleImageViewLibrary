@@ -14,7 +14,7 @@ dependencyResolutionManagement {
 			maven { url 'https://jitpack.io' } /// For Kt use this only  maven("https://jitpack.io")
 		}
 	}
-
+```
 ## Step 2:
 
 
